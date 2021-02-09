@@ -1,0 +1,541 @@
+[{
+    "note": "C/B#",
+    "frequency": 16.35,
+    "wavelength": 2109.89,
+    "octave": 0
+}, {
+    "note": "C#/Db",
+    "frequency": 17.32,
+    "wavelength": 1991.47,
+    "octave": 0
+}, {
+    "note": "D",
+    "frequency": 18.35,
+    "wavelength": 1879.69,
+    "octave": 0
+}, {
+    "note": "D#/Eb",
+    "frequency": 19.45,
+    "wavelength": 1774.2,
+    "octave": 0
+}, {
+    "note": "E/Fb",
+    "frequency": 20.6,
+    "wavelength": 1674.62,
+    "octave": 0
+}, {
+    "note": "F/E#",
+    "frequency": 21.83,
+    "wavelength": 1580.63,
+    "octave": 0
+}, {
+    "note": "F#/Gb",
+    "frequency": 23.12,
+    "wavelength": 1491.91,
+    "octave": 0
+}, {
+    "note": "G",
+    "frequency": 24.5,
+    "wavelength": 1408.18,
+    "octave": 0
+}, {
+    "note": "G#/Ab",
+    "frequency": 25.96,
+    "wavelength": 1329.14,
+    "octave": 0
+}, {
+    "note": "A",
+    "frequency": 27.5,
+    "wavelength": 1254.55,
+    "octave": 0
+}, {
+    "note": "A#/Bb",
+    "frequency": 29.14,
+    "wavelength": 1184.13,
+    "octave": 0
+}, {
+    "note": "B/Cb",
+    "frequency": 30.87,
+    "wavelength": 1117.67,
+    "octave": 0
+}, {
+    "note": "C/B#",
+    "frequency": 32.7,
+    "wavelength": 1054.94,
+    "octave": 1
+}, {
+    "note": "C#/Db",
+    "frequency": 34.65,
+    "wavelength": 995.73,
+    "octave": 1
+}, {
+    "note": "D",
+    "frequency": 36.71,
+    "wavelength": 939.85,
+    "octave": 1
+}, {
+    "note": "D#/Eb",
+    "frequency": 38.89,
+    "wavelength": 887.1,
+    "octave": 1
+}, {
+    "note": "E/Fb",
+    "frequency": 41.2,
+    "wavelength": 837.31,
+    "octave": 1
+}, {
+    "note": "F/E#",
+    "frequency": 43.65,
+    "wavelength": 790.31,
+    "octave": 1
+}, {
+    "note": "F#/Gb",
+    "frequency": 46.25,
+    "wavelength": 745.96,
+    "octave": 1
+}, {
+    "note": "G",
+    "frequency": 49.0,
+    "wavelength": 704.09,
+    "octave": 1
+}, {
+    "note": "G#/Ab",
+    "frequency": 51.91,
+    "wavelength": 664.57,
+    "octave": 1
+}, {
+    "note": "A",
+    "frequency": 55.0,
+    "wavelength": 627.27,
+    "octave": 1
+}, {
+    "note": "A#/Bb",
+    "frequency": 58.27,
+    "wavelength": 592.07,
+    "octave": 1
+}, {
+    "note": "B/Cb",
+    "frequency": 61.74,
+    "wavelength": 558.84,
+    "octave": 1
+}, {
+    "note": "C/B#",
+    "frequency": 65.41,
+    "wavelength": 527.47,
+    "octave": 2
+}, {
+    "note": "C#/Db",
+    "frequency": 69.3,
+    "wavelength": 497.87,
+    "octave": 2
+}, {
+    "note": "D",
+    "frequency": 73.42,
+    "wavelength": 469.92,
+    "octave": 2
+}, {
+    "note": "D#/Eb",
+    "frequency": 77.78,
+    "wavelength": 443.55,
+    "octave": 2
+}, {
+    "note": "E/Fb",
+    "frequency": 82.41,
+    "wavelength": 418.65,
+    "octave": 2
+}, {
+    "note": "F/E#",
+    "frequency": 87.31,
+    "wavelength": 395.16,
+    "octave": 2
+}, {
+    "note": "F#/Gb",
+    "frequency": 92.5,
+    "wavelength": 372.98,
+    "octave": 2
+}, {
+    "note": "G",
+    "frequency": 98.0,
+    "wavelength": 352.04,
+    "octave": 2
+}, {
+    "note": "G#/Ab",
+    "frequency": 103.83,
+    "wavelength": 332.29,
+    "octave": 2
+}, {
+    "note": "A",
+    "frequency": 110.0,
+    "wavelength": 313.64,
+    "octave": 2
+}, {
+    "note": "A#/Bb",
+    "frequency": 116.54,
+    "wavelength": 296.03,
+    "octave": 2
+}, {
+    "note": "B/Cb",
+    "frequency": 123.47,
+    "wavelength": 279.42,
+    "octave": 2
+}, {
+    "note": "C/B#",
+    "frequency": 130.81,
+    "wavelength": 263.74,
+    "octave": 3
+}, {
+    "note": "C#/Db",
+    "frequency": 138.59,
+    "wavelength": 248.93,
+    "octave": 3
+}, {
+    "note": "D",
+    "frequency": 146.83,
+    "wavelength": 234.96,
+    "octave": 3
+}, {
+    "note": "D#/Eb",
+    "frequency": 155.56,
+    "wavelength": 221.77,
+    "octave": 3
+}, {
+    "note": "E/Fb",
+    "frequency": 164.81,
+    "wavelength": 209.33,
+    "octave": 3
+}, {
+    "note": "F/E#",
+    "frequency": 174.61,
+    "wavelength": 197.58,
+    "octave": 3
+}, {
+    "note": "F#/Gb",
+    "frequency": 185.0,
+    "wavelength": 186.49,
+    "octave": 3
+}, {
+    "note": "G",
+    "frequency": 196.0,
+    "wavelength": 176.02,
+    "octave": 3
+}, {
+    "note": "G#/Ab",
+    "frequency": 207.65,
+    "wavelength": 166.14,
+    "octave": 3
+}, {
+    "note": "A",
+    "frequency": 220.0,
+    "wavelength": 156.82,
+    "octave": 3
+}, {
+    "note": "A#/Bb",
+    "frequency": 233.08,
+    "wavelength": 148.02,
+    "octave": 3
+}, {
+    "note": "B/Cb",
+    "frequency": 246.94,
+    "wavelength": 139.71,
+    "octave": 3
+}, {
+    "note": "C/B#",
+    "frequency": 261.63,
+    "wavelength": 131.87,
+    "octave": 4
+}, {
+    "note": "C#/Db",
+    "frequency": 277.18,
+    "wavelength": 124.47,
+    "octave": 4
+}, {
+    "note": "D",
+    "frequency": 293.66,
+    "wavelength": 117.48,
+    "octave": 4
+}, {
+    "note": "D#/Eb",
+    "frequency": 311.13,
+    "wavelength": 110.89,
+    "octave": 4
+}, {
+    "note": "E/Fb",
+    "frequency": 329.63,
+    "wavelength": 104.66,
+    "octave": 4
+}, {
+    "note": "F/E#",
+    "frequency": 349.23,
+    "wavelength": 98.79,
+    "octave": 4
+}, {
+    "note": "F#/Gb",
+    "frequency": 369.99,
+    "wavelength": 93.24,
+    "octave": 4
+}, {
+    "note": "G",
+    "frequency": 392.0,
+    "wavelength": 88.01,
+    "octave": 4
+}, {
+    "note": "G#/Ab",
+    "frequency": 415.3,
+    "wavelength": 83.07,
+    "octave": 4
+}, {
+    "note": "A",
+    "frequency": 440.0,
+    "wavelength": 78.41,
+    "octave": 4
+}, {
+    "note": "A#/Bb",
+    "frequency": 466.16,
+    "wavelength": 74.01,
+    "octave": 4
+}, {
+    "note": "B/Cb",
+    "frequency": 493.88,
+    "wavelength": 69.85,
+    "octave": 4
+}, {
+    "note": "C/B#",
+    "frequency": 523.25,
+    "wavelength": 65.93,
+    "octave": 5
+}, {
+    "note": "C#/Db",
+    "frequency": 554.37,
+    "wavelength": 62.23,
+    "octave": 5
+}, {
+    "note": "D",
+    "frequency": 587.33,
+    "wavelength": 58.74,
+    "octave": 5
+}, {
+    "note": "D#/Eb",
+    "frequency": 622.25,
+    "wavelength": 55.44,
+    "octave": 5
+}, {
+    "note": "E/Fb",
+    "frequency": 659.25,
+    "wavelength": 52.33,
+    "octave": 5
+}, {
+    "note": "F/E#",
+    "frequency": 698.46,
+    "wavelength": 49.39,
+    "octave": 5
+}, {
+    "note": "F#/Gb",
+    "frequency": 739.99,
+    "wavelength": 46.62,
+    "octave": 5
+}, {
+    "note": "G",
+    "frequency": 783.99,
+    "wavelength": 44.01,
+    "octave": 5
+}, {
+    "note": "G#/Ab",
+    "frequency": 830.61,
+    "wavelength": 41.54,
+    "octave": 5
+}, {
+    "note": "A",
+    "frequency": 880.0,
+    "wavelength": 39.2,
+    "octave": 5
+}, {
+    "note": "A#/Bb",
+    "frequency": 932.33,
+    "wavelength": 37.0,
+    "octave": 5
+}, {
+    "note": "B/Cb",
+    "frequency": 987.77,
+    "wavelength": 34.93,
+    "octave": 5
+}, {
+    "note": "C/B#",
+    "frequency": 1046.5,
+    "wavelength": 32.97,
+    "octave": 6
+}, {
+    "note": "C#/Db",
+    "frequency": 1108.73,
+    "wavelength": 31.12,
+    "octave": 6
+}, {
+    "note": "D",
+    "frequency": 1174.66,
+    "wavelength": 29.37,
+    "octave": 6
+}, {
+    "note": "D#/Eb",
+    "frequency": 1244.51,
+    "wavelength": 27.72,
+    "octave": 6
+}, {
+    "note": "E/Fb",
+    "frequency": 1318.51,
+    "wavelength": 26.17,
+    "octave": 6
+}, {
+    "note": "F/E#",
+    "frequency": 1396.91,
+    "wavelength": 24.7,
+    "octave": 6
+}, {
+    "note": "F#/Gb",
+    "frequency": 1479.98,
+    "wavelength": 23.31,
+    "octave": 6
+}, {
+    "note": "G",
+    "frequency": 1567.98,
+    "wavelength": 22.0,
+    "octave": 6
+}, {
+    "note": "G#/Ab",
+    "frequency": 1661.22,
+    "wavelength": 20.77,
+    "octave": 6
+}, {
+    "note": "A",
+    "frequency": 1760.0,
+    "wavelength": 19.6,
+    "octave": 6
+}, {
+    "note": "A#/Bb",
+    "frequency": 1864.66,
+    "wavelength": 18.5,
+    "octave": 6
+}, {
+    "note": "B/Cb",
+    "frequency": 1975.53,
+    "wavelength": 17.46,
+    "octave": 6
+}, {
+    "note": "C/B#",
+    "frequency": 2093.0,
+    "wavelength": 16.48,
+    "octave": 7
+}, {
+    "note": "C#/Db",
+    "frequency": 2217.46,
+    "wavelength": 15.56,
+    "octave": 7
+}, {
+    "note": "D",
+    "frequency": 2349.32,
+    "wavelength": 14.69,
+    "octave": 7
+}, {
+    "note": "D#/Eb",
+    "frequency": 2489.02,
+    "wavelength": 13.86,
+    "octave": 7
+}, {
+    "note": "E/Fb",
+    "frequency": 2637.02,
+    "wavelength": 13.08,
+    "octave": 7
+}, {
+    "note": "F/E#",
+    "frequency": 2793.83,
+    "wavelength": 12.35,
+    "octave": 7
+}, {
+    "note": "F#/Gb",
+    "frequency": 2959.96,
+    "wavelength": 11.66,
+    "octave": 7
+}, {
+    "note": "G",
+    "frequency": 3135.96,
+    "wavelength": 11.0,
+    "octave": 7
+}, {
+    "note": "G#/Ab",
+    "frequency": 3322.44,
+    "wavelength": 10.38,
+    "octave": 7
+}, {
+    "note": "A",
+    "frequency": 3520.0,
+    "wavelength": 9.8,
+    "octave": 7
+}, {
+    "note": "A#/Bb",
+    "frequency": 3729.31,
+    "wavelength": 9.25,
+    "octave": 7
+}, {
+    "note": "B/Cb",
+    "frequency": 3951.07,
+    "wavelength": 8.73,
+    "octave": 7
+}, {
+    "note": "C/B#",
+    "frequency": 4186.01,
+    "wavelength": 8.24,
+    "octave": 8
+}, {
+    "note": "C#/Db",
+    "frequency": 4434.92,
+    "wavelength": 7.78,
+    "octave": 8
+}, {
+    "note": "D",
+    "frequency": 4698.63,
+    "wavelength": 7.34,
+    "octave": 8
+}, {
+    "note": "D#/Eb",
+    "frequency": 4978.03,
+    "wavelength": 6.93,
+    "octave": 8
+}, {
+    "note": "E/Fb",
+    "frequency": 5274.04,
+    "wavelength": 6.54,
+    "octave": 8
+}, {
+    "note": "F/E#",
+    "frequency": 5587.65,
+    "wavelength": 6.17,
+    "octave": 8
+}, {
+    "note": "F#/Gb",
+    "frequency": 5919.91,
+    "wavelength": 5.83,
+    "octave": 8
+}, {
+    "note": "G",
+    "frequency": 6271.93,
+    "wavelength": 5.5,
+    "octave": 8
+}, {
+    "note": "G#/Ab",
+    "frequency": 6644.88,
+    "wavelength": 5.19,
+    "octave": 8
+}, {
+    "note": "A",
+    "frequency": 7040.0,
+    "wavelength": 4.9,
+    "octave": 8
+}, {
+    "note": "A#/Bb",
+    "frequency": 7458.62,
+    "wavelength": 4.63,
+    "octave": 8
+}, {
+    "note": "B/Cb",
+    "frequency": 7902.13,
+    "wavelength": 4.37,
+    "octave": 8
+}]
